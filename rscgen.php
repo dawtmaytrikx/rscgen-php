@@ -2,8 +2,8 @@
 <?php
 /*
  * Command line RSCollection generator written by dawt.
- * Usage: php rscgen.php
- * 		  then follow instructions.
+ * Usage: 1. php rscgen.php
+ * 		  2. follow instructions.
  * 
  * License: CC-BY-NC (http://creativecommons.org/licenses/by-nc/3.0/)
  */
